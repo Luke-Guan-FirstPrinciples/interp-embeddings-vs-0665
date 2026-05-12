@@ -1,0 +1,15 @@
+idea:
+  title: Recommendation systems built on interpretable embeddings will deliver greater
+    value than those built on opaque embeddings.
+  domain: artificial_intelligence
+  hypothesis: "Replacing dense black-box embeddings with interpretable embeddings\
+    \ (e.g., sparse, concept-aligned, or disentangled representations) in a recommendation\
+    \ system improves downstream value \u2014 measured by some combination of recommendation\
+    \ quality, user trust, debuggability, and controllability \u2014 without a significant\
+    \ loss in predictive accuracy.\n"
+  metadata:
+    idea_id: recommendation_systems_built_o_20260512_180815_b8446b06
+    created_at: '2026-05-12T18:08:15.403199'
+    status: submitted
+    github_repo_name: interp-embeddings-vs-0665
+    github_repo_url: https://github.com/Luke-Guan-FirstPrinciples/interp-embeddings-vs-0665
